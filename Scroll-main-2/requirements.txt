@@ -1,0 +1,11 @@
+﻿termcolor==2.3.0
+cryptography~=40.0.1
+ecdsa~=0.18.0
+requests~=2.31.0
+loguru~=0.6.0
+tqdm~=4.65.0
+sympy~=1.12
+ccxt~=3.0.56
+web3~=6.1.0
+pyuseragents~=1.0.5
+hexbytes==1.0.0
